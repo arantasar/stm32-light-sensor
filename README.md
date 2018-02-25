@@ -1,1 +1,1 @@
-# stm32_light_sensor
+# STM32 Light Sensor
